@@ -1,2 +1,2 @@
 # StepSync
-Overall, "StepSync" conveys a sense of rhythm, harmony, and precision—qualities that align well with the world of dance while also reflecting the organizational features  system.
+Certainly, "StepSync" is a concise and intriguing name that reflects the core idea of synchronization within the context of dance classes. The name suggests a seamless and coordinated experience for both instructors and students. It's straightforward, easy to remember, and captures the essence of your app's purpose.
