@@ -51,3 +51,102 @@ Recordatorios y Notificaciones:
 
 Notificaciones automáticas de clases, pagos y eventos importantes.
 StepSync es la plataforma definitiva para una gestión armoniosa y eficaz de tu escuela de danza. Simplifica la administración y maximiza la experiencia tanto para los maestros como para los estudiantes.
+
+
+
+
+
+
+Caso de Uso: Registro de Usuarios
+
+Descripción: Este caso de uso describe cómo los diferentes usuarios pueden registrarse en la aplicación StepSync.
+
+Tareas de Usuario:
+
+Dueño:
+
+Accede a la página de registro.
+Completa el formulario de registro con los detalles de la escuela.
+Define el rol de cada maestro en la escuela.
+Maestros:
+
+Acceden a la página de registro.
+Completa el formulario con su información personal y detalles de las clases que enseñarán.
+Estudiantes:
+
+Acceden a la página de registro.
+Llenan el formulario con sus datos personales y detalles de su nivel de baile.
+Administrador:
+
+Accede a la página de registro.
+Completa el formulario con la información necesaria para gestionar la plataforma.
+Super Admin:
+
+Accede a la página de registro.
+Completa el formulario con los detalles de acceso a la plataforma.
+Caso de Uso: Gestión de Pagos
+
+Descripción: Este caso de uso se refiere a cómo los usuarios pueden realizar y rastrear los pagos en la aplicación.
+
+Tareas de Usuario:
+
+Estudiantes:
+
+Acceden a la sección de pagos.
+Seleccionan la opción para pagar la mensualidad.
+Proporcionan los detalles de la tarjeta o el método de pago elegido.
+Estudiantes:
+
+Exploran la lista de planes y paquetes disponibles.
+Seleccionan un plan o paquete de clases.
+Realizan el pago correspondiente.
+Estudiantes:
+
+Acceden a la tienda de paquetes.
+Exploran las opciones disponibles.
+Compran un paquete de clases y efectúan el pago.
+Caso de Uso: Horarios de Clases
+
+Descripción: En este caso de uso, los usuarios pueden visualizar y administrar los horarios de las clases.
+
+Tareas de Usuario:
+
+Maestros:
+
+Acceden a su horario de clases asignado.
+Visualizan los detalles de cada clase que enseñarán.
+Actualizan los detalles si es necesario.
+Estudiantes:
+
+Acceden a su horario personal.
+Ven los horarios de las clases en las que están inscritos.
+Pueden marcar su asistencia en cada clase.
+Caso de Uso: Sistema de Asistencia
+
+Descripción: Este caso de uso aborda cómo los usuarios registran y gestionan la asistencia a las clases.
+
+Tareas de Usuario:
+
+Maestros:
+
+Acceden a la lista de estudiantes para cada clase.
+Marcan la asistencia de los estudiantes presentes.
+Estudiantes:
+
+Acceden a su horario de clases.
+Marcan su propia asistencia en las clases a las que asisten.
+Caso de Uso: Comunicación Integrada
+
+Descripción: En este caso de uso, los usuarios se comunican entre sí a través de la función de mensajería interna.
+
+Tareas de Usuario:
+
+Maestros:
+
+Acceden a la función de mensajería.
+Envían mensajes a estudiantes y administradores sobre detalles de clases y actividades.
+Estudiantes:
+
+Acceden a la función de mensajería.
+Envían mensajes a maestros y administradores para hacer preguntas o informar sobre ausencias.
+Estos son ejemplos de cómo los diferentes roles de usuario pueden interactuar con las diversas funciones de la aplicación StepSync. Cada caso de uso y sus tareas correspondientes contribuyen a una experiencia fluida y efectiva en la gestión de la escuela de danza.
